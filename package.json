@@ -1,0 +1,20 @@
+{
+  "name": "algo-anagrams-ii",
+  "version": "1.0.0",
+  "description": "This time you're going to check a word against a list of other words.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romeoplatoon/algo-anagrams-ii.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romeoplatoon/algo-anagrams-ii/issues"
+  },
+  "homepage": "https://github.com/romeoplatoon/algo-anagrams-ii#readme"
+}
